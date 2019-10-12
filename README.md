@@ -11,3 +11,5 @@ As I have taken many programming classes in the past, I am suspecting I will do 
 The most important thing in my life is to stay current in technology. In this rapid changing world I don’t want to be left behind.
 
 I have spent the last 40 years in the electronic industry, but I have a tremendous interest in woodworking and the outdoors (hiking, mountain climbing)
+
+
