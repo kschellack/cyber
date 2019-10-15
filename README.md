@@ -1,6 +1,6 @@
 # cyber
 
-[./fundamentals.md](Go to fundamentals)
+[Go to fundamentals](./fundamentals.md)
 
 Hi, I am Kurt Schellack. 
 
