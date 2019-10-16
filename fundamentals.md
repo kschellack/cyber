@@ -43,5 +43,7 @@ for i in range(len(p)-1):             #a loop that walks through entered passwor
 
 ```   
    
+The book [Automate the Boring Stuff](https://automatetheboringstuff.com/) is well written with examples
+
 In conclusion, seems like Python is the most popular programming language. It is easy to learn, I look forward to 
 progressing to the specific modules.
