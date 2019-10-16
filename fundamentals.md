@@ -15,7 +15,7 @@ I have tried (mostly successfully) to hone fast algorithm development.
    The most challenging of the given tasks was the extra credit --- removing the duplicate letters in password. The
    below code, which mostly works, challenged my ability to visualize the needed algorithm. Somehow I did not "see" that 
    the last letter would always be "correct". As expected, the solution came from collaborating with a classmate.
-   
+  
 ```python3
 p='hezzo'
 
