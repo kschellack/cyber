@@ -1,6 +1,6 @@
 [Go back to readme](./README.md)
 
-[Go to Code](./Unit-1-Code)
+[Go to Code](https://github.com/kschellack/Unit-1-Code)
 
 
 # This is a review of the first five weeks of IT 0075 
