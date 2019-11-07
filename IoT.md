@@ -1,4 +1,7 @@
 
+link to readme
+
+
 • How have you organized your portfolio and why is it in this order?
 • Why have you chosen these particular pieces to demonstrate your learning?
 • Which piece in your portfolio are you most proud of? Why?
