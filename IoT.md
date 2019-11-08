@@ -1,5 +1,5 @@
 
-link to readme
+[Go to Unit-2](https://github.com/kschellack/Unit-2)
 
 The first weeks of the Python class provided the needed underpinning of the language. It solidified the syntax and provided a taste of what was to come. Learning that Python was the current most popular programming language made it clear that this class was a very good choice. The IoT section started to show the pragmatic side of the language and noted the libraries available for use.
 
