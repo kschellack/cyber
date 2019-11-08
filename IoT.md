@@ -9,7 +9,7 @@ Below is a picture of the last circuit using onboard accelerometer and external 
 
 Again, the coding was challenging as a “class” definition was used, we had not reviewed that in class.
 
-![Breadboard for IoT](c:\Users\Administrators\Pictures\IoT_breadboard)
+
 
 
 
