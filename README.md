@@ -2,7 +2,7 @@
 
 [Go to fundamentals](./fundamentals.md)
 
-[Go to PythonHackathon](.PythonHackathon.md)
+[Go to PythonHackathon](./PythonHackathon.md)
 
 Hi, I am Kurt Schellack. 
 
