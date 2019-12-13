@@ -2,6 +2,7 @@
 #Project:  Build an application that will allow monitoring and variable 
 #quantization of power production per time window
 
+
 ##This project is a very practical in that it provides further insight to my solar system. As PGE will continue to shut off power, I ##will be able to view, with granular detail, the energy production of the solar system (soon to have a battery attached). 
 
 ##It represents a collective summarization of the recent eight classes I have taken at Sierra in Applied Computer Science, Networking ##and (some) security.
