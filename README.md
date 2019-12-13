@@ -2,6 +2,8 @@
 
 [Go to fundamentals](./fundamentals.md)
 
+[Go to PythonHackathon](.PythonHackathon.md)
+
 Hi, I am Kurt Schellack. 
 
 I am returning to college to renew my education. I have a Master of Electrical Engineering from Cornell University. My current studies are toward knowledge of Cyber Security. I have taken Security, Network and computer science classes.
