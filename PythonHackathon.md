@@ -1,13 +1,19 @@
 [Go back to Readme](./README.md)
 
 
-# Project:  Build an application that will allow monitoring and variable 
-# quantization of power production per time window
+# Project:  Build an application that will
+# allow monitoring and variable 
+# quantization of power production
+# per time window
 
 
-##T his project is a very practical in that it provides further insight to my solar system. As PGE will continue to shut off power, I ## will be able to view, with granular detail, the energy production of the solar system (soon to have a battery attached). 
+## This project is a very practical in that it provides further insight to my solar system. 
+## As PGE will continue to shut off power, I will be able to view, with granular detail,
+## the energy production of the solar system (soon to have a battery attached). 
 
-## It represents a collective summarization of the recent eight classes I have taken at Sierra in Applied Computer Science, Networking ## and (some) security.
+## It represents a collective summarization of the recent eight classes I have taken
+## at Sierra in Applied Computer Science, Networking 
+## and (some) security.
 
 Solar system was installed in April 2018. Happily, at the end of the first year, my total PGE bill was $150. The minimum monthly bill is $10.00. The solar project was a success. The below picture was taken on a rainy day (today), but shows the data available (251.8 watts is enough to run a few incandescent lights). 
 
