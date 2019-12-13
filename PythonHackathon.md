@@ -2,9 +2,7 @@
 
 
 # Project:  Build an application that will
-# allow monitoring and variable 
-# quantization of power production
-# per time window
+# allow monitoring of power production
 
 
 ## This project is a very practical in that it provides further insight to my solar system. 
