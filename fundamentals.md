@@ -1,5 +1,7 @@
 [Go back to readme](./README.md)
 
+[Go to PythonHackathon](./PythonHackathon.md)
+
 [Go to Unit-1-Code](https://github.com/kschellack/Unit-1-Code)
 
 [Go to Unit-2](https://github.com/kschellack/Unit-2)
