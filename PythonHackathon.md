@@ -15,7 +15,7 @@
 
 Solar system was installed in April 2018. Happily, at the end of the first year, my total PGE bill was $150. The minimum monthly bill is $10.00. The solar project was a success. The below picture was taken on a rainy day (today), but shows the data available (251.8 watts is enough to run a few incandescent lights).
 
-![]Images/inverter.png
+![]images/inverter.png
  
 PGE published solar energy data quantized hourly. The below spreadsheet is a sample of PGE solar energy posted in November 2019. The rightmost numbers is the month to data accumulative power. Positive numbers mean I generated more than I used…..please note that the numbers are negative in July and August when the AC is running   ;-) .
 
